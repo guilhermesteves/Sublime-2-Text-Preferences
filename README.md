@@ -4,7 +4,7 @@
 
 Esse repositório é basicamente as minhas preferências do Sublime Text 2. Uso apenas no OS X, então você deve clonar em `~/Library/Application Support/Sublime Text 2`.
 
-## ATENÇÂO!
+## ATENÇÃO!
 
 Eu modifico essas preferencias muitas vezes. Não clone/pull a menos que você tenha certeza absoluta do que está fazendo.
 
@@ -89,7 +89,7 @@ Leia a página do [Package Control][] para detalhes de como instalar.
 - [SideBarEnhancements](https://sublime.wbond.net/packages/SideBarEnhancements)
 
 
-## Bonus Options
+## Bônus
 
 #### Fonte
 
