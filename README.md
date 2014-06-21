@@ -1,5 +1,7 @@
 # Minhas Preferências do Sublime Text 2 
 
+![Logo](../master/Sublime_Text_Logo.png)
+
 Esse repositório é basicamente as minhas preferências do Sublime Text 2. Uso apenas no OS X, então você deve clonar em `~/Library/Application Support/Sublime Text 2`.
 
 ## ATENÇÂO!
