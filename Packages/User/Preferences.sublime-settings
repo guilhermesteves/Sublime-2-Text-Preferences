@@ -1,0 +1,59 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+	"drag_text": false,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"node_modules",
+		"temp",
+		"release"
+	],
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 14.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Jedi - Python autocompletion",
+		"SublimeLinter"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"new_window_settings":
+	{
+		"show_minimap": false
+	},
+	"phoenix_color_blue": true,
+	"phoenix_color_expanded_folder": true,
+	"phoenix_dirty_bottom_bar": true,
+	"phoenix_highlight_current_tab": true,
+	"phoenix_sidebar_tree_large": true,
+	"phoenix_solid_current_tab": true,
+	"phoenix_tabs_auto_width": true,
+	"phoenix_tabs_small": true,
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"show_full_path": true,
+	"tab_completion": false,
+	"tab_size": 2,
+	"theme": "Phoenix Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
+	"word_wrap": true
+}

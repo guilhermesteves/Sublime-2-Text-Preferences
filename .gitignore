@@ -1,0 +1,4 @@
+Settings/*
+Backup/*
+*.tm*.cache
+*.DS_Store
