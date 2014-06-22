@@ -79,6 +79,7 @@ Leia a página do [Package Control][] para detalhes de como instalar.
 
 #### Linguagens
 
+- [CoffeeScript](https://sublime.wbond.net/packages/CoffeeScript)
 - [Jade](https://sublime.wbond.net/packages/Jade)
 - [LESS](https://sublime.wbond.net/packages/LESS)
 
