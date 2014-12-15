@@ -69,14 +69,6 @@ Leia a página do [Package Control][] para detalhes de como instalar.
 - [SublimeCodeIntel](https://sublime.wbond.net/packages/SublimeCodeIntel)
 - [SublimeLinter](https://github.com/Kronuz/SublimeLinter)
 
-#### Tema
-
-- [Theme Phoenix](https://sublime.wbond.net/packages/Theme%20-%20Phoenix)
-
-#### Color Scheme
-
-- [Textmate-solarized](http://ethanschoonover.com/solarized)
-
 #### Linguagens
 
 - [CoffeeScript](https://sublime.wbond.net/packages/CoffeeScript)
