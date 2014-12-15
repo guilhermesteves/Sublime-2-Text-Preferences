@@ -1,4 +1,4 @@
-# Minhas Preferências do Sublime Text 2 
+# Minhas Preferências do Sublime Text 2
 
 ![Logo](../master/Sublime_Text_Logo.png)
 
@@ -28,11 +28,11 @@ Vá para sua pasta Application Support no diretório do OS X:
 
 Clone as configurações desse repositório usando o comando abaixo:
 
-    git clone https://github.com/Leeiio/Sublime-Text-2-Settings.git "Sublime-Text-2-Settings"
-    
+    git clone https://github.com/guilhermesteves/Sublime-2-Text-Preferences "Sublime-Text-2-Settings"
+
 
 Faça backup das suas configurações e use as minhas Sublime Text 2:
-    
+
     mv Sublime\ Text\ 2/ Sublime\ Text\ 2\ Backup/
 
     mv Sublime-Text-2-Settings/ Sublime\ Text\ 2/
