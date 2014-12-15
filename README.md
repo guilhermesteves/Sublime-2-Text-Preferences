@@ -94,6 +94,7 @@ Leia a página do [Package Control][] para detalhes de como instalar.
 
 #### Fonte
 
+- [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
 - [Consolas](http://www.fontpalace.com/font-download/Consolas/)
 
 
